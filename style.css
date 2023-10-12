@@ -73,5 +73,6 @@ html {
 .sm
 {
   width: 40%;
+    height: 30%;
   z-index: 0;
 }
